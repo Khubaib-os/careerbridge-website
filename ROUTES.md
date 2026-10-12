@@ -1,0 +1,29 @@
+# 27 routes
+
+- `/`
+- `/about-us`
+- `/our-team`
+- `/why-choose-us`
+- `/how-it-works`
+- `/contact-us`
+- `/services`
+- `/services/reverse-recruiting`
+- `/services/job-search-applications`
+- `/services/resume-cover-letter`
+- `/services/linkedin-optimization`
+- `/services/recruiter-outreach`
+- `/services/interview-preparation`
+- `/solutions/job-seekers`
+- `/solutions/recruitment-agencies`
+- `/solutions/white-label-recruiting`
+- `/solutions/bulk-job-applications`
+- `/partners`
+- `/success-stories`
+- `/testimonials`
+- `/careers`
+- `/faqs`
+- `/book-consultation`
+- `/get-quote`
+- `/privacy-policy`
+- `/terms-and-conditions`
+- `/cookie-policy`
